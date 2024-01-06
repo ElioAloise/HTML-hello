@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    }
+    
+    header {
+      text-align:center;
+     height:40px;
+    }
+    
+    .box{background:grey;
+    width:600px;
+    margin-bottom:30px;
+    margin-top:30px}
+    
+    
+    img{width:100%;}
+    .head h2{font-size:20px;margin:0;}
+    
+    section{
+      display:flex;
+      flex-flow:column;
+      align-items:center;
+      padding-top:60px;}
+    
+    div.bottom{padding:10px;}
+    
+    .head{padding:10px;}
+    
+    .date{float:right; margin:0;}
